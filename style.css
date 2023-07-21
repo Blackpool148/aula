@@ -1,0 +1,46 @@
+h1{
+    background-color: blue;
+    color: whitesmoke;
+    padding: 10px;
+    margin: 30px;
+
+}
+.p1{
+    font-size: 30px;
+
+}
+
+#imagens{
+    width: 50%;
+    height: 50%;
+}
+
+.div1{
+    border: 1px solid red;
+    padding: 10px;
+    margin: 30px;
+    text-align: center;
+
+}
+
+.div2{
+    border:1px solid red ;
+
+}
+
+.div3{
+    border: 1px solid red;
+    padding: 10px;
+}
+
+.div4{
+    border: 1px solid red;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    width:50% ;
+
+}
